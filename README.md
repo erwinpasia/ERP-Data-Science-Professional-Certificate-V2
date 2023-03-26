@@ -1,5 +1,11 @@
 # IBM Data Science Professional Certificate V2 - COMPLETED!
 
+<p style="text-align:center">
+    <a href="https://www.coursera.org/verify/professional-cert/3F62TM7PSHP2" target="_blank">
+    <img src="https://github.com/erwinpasia/IBM-Data-Science-Professional-Certificate-V2/blob/main/images/IDS_PC.png" alt="IBM Data Engineering Professional Certificate"  />
+    </a>
+</p>
+
 Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate will help anyone interested in pursuing a career in data science or machine learning develop career-relevant skills.
 
 It’s a myth that to become a data scientist you need a Ph.D. Anyone with a passion for learning can take this Professional Certificate – no prior knowledge of computer science or programming languages required – and develop the skills, tools, and portfolio to have a competitive edge in the job market as an entry level data scientist.
