@@ -18,12 +18,12 @@ In addition to earning a Professional Certificate from Coursera, you'll also rec
 
 This program is ACE® recommended—when you complete, you can earn up to 12 college credits.  
 
-# Applied Learning Project
+## Applied Learning Project
 This Professional Certificate has a strong emphasis on applied learning. The courses include a series of hands-on labs in the IBM Cloud that give you practical skills with applicability to real jobs, including:
 Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
 
-# Projects:
+## Projects:
 
 - Extract and graph financial data with the Pandas Python library.
 
