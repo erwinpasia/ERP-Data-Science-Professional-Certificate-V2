@@ -1,5 +1,5 @@
-# IBM Data Science Professional Certificate V2 - COMPLETED. 
-## Finally, a Trained and Certified Data Scientist!
+# [IBM Data Science Professional Certificate V2](https://www.coursera.org/verify/professional-cert/3F62TM7PSHP2) - COMPLETED. 
+## Now, a [Trained and Certified Data Scientist!](https://www.coursera.org/verify/professional-cert/3F62TM7PSHP2)
 
 <p style="text-align:center">
     <a href="https://www.coursera.org/verify/professional-cert/3F62TM7PSHP2" target="_blank">
