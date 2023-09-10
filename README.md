@@ -1,9 +1,15 @@
-# [IBM Data Science Professional Certificate V2](https://www.coursera.org/verify/professional-cert/3F62TM7PSHP2) - COMPLETED. 
-## Now, a [Trained and Certified Data Scientist!](https://www.coursera.org/verify/professional-cert/3F62TM7PSHP2)
+# [IBM Data Science Professional Certificate V2](https://www.credly.com/badges/5811b8ae-de5c-4907-88a5-d4d6d5fab0a9) - COMPLETED. 
+## Now, a [Trained and Certified Data Scientist!](https://www.credly.com/badges/5811b8ae-de5c-4907-88a5-d4d6d5fab0a9)
 
 <p style="text-align:center">
     <a href="https://www.coursera.org/verify/professional-cert/3F62TM7PSHP2" target="_blank">
-    <img src="https://github.com/erwinpasia/IBM-Data-Science-Professional-Certificate-V2/blob/main/images/IDS_PC.png" alt="IBM Data Engineering Professional Certificate"  />
+    <img src="https://github.com/erwinpasia/IBM-Data-Science-Professional-Certificate-V2/blob/main/images/IDS_PC.png" alt="IBM Data Science Professional Certificate V2"  />
+    </a>
+</p>
+
+<p style="text-align:center">
+    <a href="https://www.credly.com/badges/5811b8ae-de5c-4907-88a5-d4d6d5fab0a9" target="_blank">
+    <img src="https://github.com/erwinpasia/IBM-Data-Science-Professional-Certificate-V2/blob/main/images/IDS_PC_SBCP.png" alt="IBM Data Science Professional Certificate V2"  />
     </a>
 </p>
 
